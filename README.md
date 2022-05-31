@@ -1,12 +1,12 @@
-# Slandered
+# Standard
 
-The motive of this is to enforce a way to communicate with all available POS mahine in a way that is common for all pos machine and make payment with online mediums possible with the least amount of work possible.  
+The motive of this is to enforce a way to communicate with all available POS machine in a way that is common for all pos machine and make payment with online mediums possible with the least amount of work possible.  
 
 # Security
 
 having worked in fin-tech for quite some time it is clear that the security is a must have keeping in mind no matter what security we implement it's going to be broken if not today then in a hundred years or later. keeping that in mind our implementation doesn't share any payment related information that can be used to spoof payment success or failure. it just not possible. `Don't believe me give it a try.`
 
-## POS - Online Payment Standered
+## POS - Online Payment Standard
 
 > This will allow users to pay at pos machines with their phones using all available payment options of the given payment gateway.
 
