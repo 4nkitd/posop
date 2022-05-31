@@ -1,4 +1,4 @@
-# Standard
+# POS-OP2 Standard
 
 The motive of this is to enforce a way to communicate with all available POS machine in a way that is common for all pos machine and make payment with online mediums possible with the least amount of work possible.  
 
